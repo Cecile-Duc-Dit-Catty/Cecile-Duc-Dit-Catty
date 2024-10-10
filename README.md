@@ -1,5 +1,5 @@
 ##  Salut ! 👋 🇫🇷
-Développeuse web en formation sur les technologies JS, React, Node.js, Express, PostgreSQL. J'aime travailler sur des projets qui me permettent d'en apprendre d'avantage dans le monde vaste du développement web. ✨
+Développeuse web en formation sur les technologies JS, React, Node.js, Express, PostgreSQL. J'aime travailler sur des projets qui me permettent d'en apprendre d'avantage dans le vaste monde du développement web. ✨
 
 ### 🎯 Projets :
 - **Nokota World** *(En développement)*
