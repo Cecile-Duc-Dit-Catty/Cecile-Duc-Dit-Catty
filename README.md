@@ -20,7 +20,7 @@ J'aime m'impliquer dans leur conservation et partager des informations sur cette
 Web developer in training on JS, React, Node.js, Express, and PostgreSQL technologies. I enjoy working on projects that allow me to learn more in the vast world of web development. ✨
 
 ### 🎯 Projects:
-
+- **Pet Foster Connect** *(In developpment)*
 - **Nokota World** *(In developpment)*
   
   
