@@ -19,7 +19,7 @@ J'aime m'impliquer dans leur conservation et partager des informations sur cette
 ##  Hi there! 👋 🇺🇸
 <details>
   <summary>Click to reveal</summary>
-Web developer in training on JS, React, Node.js, Express, and PostgreSQL, MySQL, Symfony, Tailwind technologies. I enjoy working on projects that allow me to learn more in the vast world of web development. ✨
+Freelance web developer on JS, React, Node.js, Express, and PostgreSQL, MySQL, Symfony, Tailwind technologies. I enjoy working on projects that allow me to learn more in the vast world of web development. ✨
 
 ### 🎯 Projects:
 - **Nokalia**
