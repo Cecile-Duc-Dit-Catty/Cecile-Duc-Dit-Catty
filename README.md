@@ -1,8 +1,8 @@
 ##  Salut ! 👋 🇫🇷
-Développeuse web en formation sur les technologies JS, React, Node.js, Express, PostgreSQL. J'aime travailler sur des projets qui me permettent d'en apprendre d'avantage dans le vaste monde du développement web. ✨
+Développeuse web Freelance j'utilise les technologies JS, React, Node.js, Express, PostgreSQL, MySQL, Symfony, Tailwind. J'aime travailler sur des projets qui me permettent d'en apprendre d'avantage dans le vaste monde du développement web. ✨
 
 ### 🎯 Projets :
-- **Nokalia** *(En développement)*
+- **Nokalia**
 - **Nokota World** *(En développement)*
 
 ### 📫 Comment me joindre :
@@ -19,18 +19,18 @@ J'aime m'impliquer dans leur conservation et partager des informations sur cette
 ##  Hi there! 👋 🇺🇸
 <details>
   <summary>Click to reveal</summary>
-Web developer in training on JS, React, Node.js, Express, and PostgreSQL technologies. I enjoy working on projects that allow me to learn more in the vast world of web development. ✨
+Web developer in training on JS, React, Node.js, Express, and PostgreSQL, MySQL, Symfony, Tailwind technologies. I enjoy working on projects that allow me to learn more in the vast world of web development. ✨
 
 ### 🎯 Projects:
-- **Pet Foster Connect** *(In developpment)*
+- **Nokalia**
 - **Nokota World** *(In developpment)*
   
   
 
 ### 📫 How to reach me:
-
+- [My website](https://nokalia.com/)
 - [My LinkedIn](https://www.linkedin.com/in/c%C3%A9cile-duc-dit-catty/)
-- **My email** : cecile.ducditcatty@gmail.com
+- **My email** : nokalia.dev@gmail.com
 
 ### 🐎 Fun fact:
 I am passionate about Nokota horses and I'm a member of the European Nokota Association. 
