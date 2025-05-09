@@ -6,9 +6,11 @@ Développeuse web en formation sur les technologies JS, React, Node.js, Express,
 - **Nokota World** *(En développement)*
 
 ### 📫 Comment me joindre :
+- [Mon site web](https://nokalia.com/)
+
 - [Mon LinkedIn](https://www.linkedin.com/in/c%C3%A9cile-duc-dit-catty/)
 
-- **Mon email** : cecile.ducditcatty@gmail.com
+- **Mon email** : nokalia.dev@gmail.com
 
 ### 🐎 Fun fact : 
 Je suis passionnée par les chevaux Nokota et membre de l'Association Européenne des Nokota.
